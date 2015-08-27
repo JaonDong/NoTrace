@@ -40,7 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="NoTraceWebApiModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Abp.Web.Api\Abp.Web.Api.csproj">
+      <Project>{71962f97-5e4b-465c-9a21-2153d31992cf}</Project>
+      <Name>Abp.Web.Api</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Abp\Abp.csproj">
+      <Project>{2c221d3b-5f54-4c5b-8082-318636415132}</Project>
+      <Name>Abp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NoTrace.Application\NoTrace.Application.csproj">
+      <Project>{8dc89ba4-fd14-4950-8ebf-7bc36f69028e}</Project>
+      <Name>NoTrace.Application</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

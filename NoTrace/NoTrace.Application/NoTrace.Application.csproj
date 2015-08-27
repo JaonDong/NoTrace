@@ -40,6 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Authorization\NoTraceAuthorizationProvider.cs" />
+    <Compile Include="Configuration\MySettingProvider.cs" />
+    <Compile Include="NoTraceApplicationModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -55,7 +58,12 @@
       <Project>{2c221d3b-5f54-4c5b-8082-318636415132}</Project>
       <Name>Abp</Name>
     </ProjectReference>
+    <ProjectReference Include="..\NoTrace.Core\NoTrace.Core.csproj">
+      <Project>{08181eb6-592f-4cc4-9305-d5bc44bd9258}</Project>
+      <Name>NoTrace.Core</Name>
+    </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

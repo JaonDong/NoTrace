@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace NoTrace.WebApi.Web.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : NoTraceControllerBase
     {
         // GET: Home
         public ActionResult Index()

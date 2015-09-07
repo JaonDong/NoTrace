@@ -73,6 +73,7 @@
     <Compile Include="Authorization\RoleManager.cs" />
     <Compile Include="Authorization\RoleStore.cs" />
     <Compile Include="MultiTenancy\Tenant.cs" />
+    <Compile Include="NoTraceConsts.cs" />
     <Compile Include="NoTraceCoreModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Users\User.cs" />

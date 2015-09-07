@@ -5,9 +5,14 @@ namespace NoTrace.Application.Configuration
 {
     public class MySettingProvider: SettingProvider
     {
+        public const string QuestionsDefaultPageSize = "QuestionsDefaultPageSize";
+
         public override IEnumerable<SettingDefinition> GetSettingDefinitions(SettingDefinitionProviderContext context)
         {
-            throw new System.NotImplementedException();
+            return new[]
+                   {
+                       new SettingDefinition(QuestionsDefaultPageSize, "10")
+                   };
         }
     }
 }

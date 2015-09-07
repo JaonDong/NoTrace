@@ -223,6 +223,9 @@
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Localization\NoTrace\NoTrace.tr.xml" />
+    <Content Include="Localization\NoTrace\NoTrace.xml" />
+    <Content Include="Localization\NoTrace\NoTrace.zh-CN.xml" />
     <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.js" />
     <Content Include="Scripts\angular-ui\ui-bootstrap-tpls.min.js" />
     <Content Include="Scripts\angular-ui\ui-bootstrap.js" />

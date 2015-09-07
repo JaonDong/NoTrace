@@ -38,3 +38,461 @@ DEBUG 2015-09-07 16:54:25,844 [1    ] Abp.Localization.LocalizationManager     -
 DEBUG 2015-09-07 16:54:25,860 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
 DEBUG 2015-09-07 16:54:25,861 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
 DEBUG 2015-09-07 16:54:25,862 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-07 16:57:40,817 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 16:57:42,382 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 16:57:42,387 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,389 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,390 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:57:42,392 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 16:57:43,417 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 16:57:45,062 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 16:57:45,066 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 16:57:45,067 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 16:57:45,067 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-07 16:58:24,534 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 16:58:26,876 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 16:58:26,880 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,882 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,883 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:58:26,886 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 16:58:27,907 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 16:58:29,117 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 16:58:29,123 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 16:58:29,124 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 16:58:29,124 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-07 16:59:25,396 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 16:59:27,022 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 16:59:27,026 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,029 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,029 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,030 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,030 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,030 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,030 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,031 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 16:59:27,034 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 16:59:28,160 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 16:59:29,865 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 16:59:29,869 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 16:59:29,870 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 16:59:29,870 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 16:59:31,219 [7    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_index.cshtml.a8d08dba.3pqrlz--.0.cs(30): error CS0308: The non-generic type 'NoTraceWebViewPageBase' cannot be used with type arguments
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_index.cshtml.a8d08dba.3pqrlz--.0.cs(30): error CS0308: The non-generic type 'NoTraceWebViewPageBase' cannot be used with type arguments
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:07:45,191 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:07:46,716 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:07:46,720 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,724 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,724 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,725 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,726 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:07:46,732 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:07:47,782 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:07:49,437 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 17:07:49,441 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:07:49,441 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:07:49,442 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 17:07:50,679 [6    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_index.cshtml.a8d08dba.n0tsbohw.0.cs(30): error CS0308: The non-generic type 'NoTraceWebViewPageBase' cannot be used with type arguments
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_index.cshtml.a8d08dba.n0tsbohw.0.cs(30): error CS0308: The non-generic type 'NoTraceWebViewPageBase' cannot be used with type arguments
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerWrapper.System.Web.Mvc.IBuildManager.GetCompiledType(String virtualPath)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:11:18,120 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:11:19,618 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:11:19,620 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,622 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,622 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,622 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,623 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,624 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:11:19,627 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:11:20,677 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:11:22,287 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 17:11:22,293 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:11:22,293 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:11:22,294 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 17:11:23,213 [8    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_t3yutvc4.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_t3yutvc4.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:13:34,050 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:13:35,515 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:13:35,518 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,520 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,521 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:13:35,523 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:13:36,542 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:13:38,163 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 17:13:38,166 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:13:38,167 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:13:38,167 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 17:13:39,090 [6    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_myygmnox.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_myygmnox.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:15:27,947 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:15:29,481 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:15:29,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,485 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,485 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,486 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,487 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:15:29,489 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:15:30,541 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:15:32,146 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2015-09-07 17:15:32,152 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:15:32,152 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:15:32,153 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 17:15:33,045 [6    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_gq2ntqi0.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Reflection.TargetInvocationException: 调用的目标发生了异常。 ---> Abp.AbpException: Can not find a source with name: NoTrace
+   在 Abp.Localization.LocalizationManager.GetSource(String name)
+   在 Abp.Localization.LocalizationHelper.GetSource(String name)
+   在 Abp.Web.Mvc.Views.AbpWebViewPage`1.set_LocalizationSourceName(String value)
+   在 NoTrace.WebApi.Web.Views.NoTraceWebViewPageBase`1..ctor() 位置 C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\NoTraceWebViewPage.cs:行号 15
+   在 ASP._Page_Views_Home_Index_cshtml..ctor() 位置 C:\Users\Jacky\AppData\Local\Temp\Temporary ASP.NET Files\root\f18fdddd\4edaedd\App_Web_gq2ntqi0.0.cs:行号 0
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.RuntimeTypeHandle.CreateInstance(RuntimeType type, Boolean publicOnly, Boolean noCheck, Boolean& canBeCached, RuntimeMethodHandleInternal& ctor, Boolean& bNeedSecurityCheck)
+   在 System.RuntimeType.CreateInstanceSlow(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.RuntimeType.CreateInstanceDefaultCtor(Boolean publicOnly, Boolean skipCheckThis, Boolean fillCache, StackCrawlMark& stackMark)
+   在 System.Activator.CreateInstance(Type type, Boolean nonPublic)
+   在 System.Activator.CreateInstance(Type type)
+   在 System.Web.Mvc.BuildManagerViewEngine.DefaultViewPageActivator.Create(ControllerContext controllerContext, Type type)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:31:21,216 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:31:22,627 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:31:22,629 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,631 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,631 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,632 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:31:22,635 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:31:23,587 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:31:25,063 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-07 17:31:25,067 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:31:25,067 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:31:25,068 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-07 17:31:25,068 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+ERROR 2015-09-07 17:31:26,370 [6    ] .Mvc.Controllers.AbpHandleErrorAttribute - System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\Shared\_Layout.cshtml(7): error CS0103: The name 'Styles' does not exist in the current context
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(String virtualPath, Type requiredBaseType)
+   在 System.Web.WebPages.BuildManagerWrapper.CreateInstanceOfType[T](String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryManager.CreateInstanceOfType[T](String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   在 System.Web.WebPages.WebPageBase.CreatePageFromVirtualPath(String virtualPath, HttpContextBase httpContext, Func`2 virtualPathExists, DisplayModeProvider displayModeProvider, IDisplayMode displayMode)
+   在 System.Web.WebPages.WebPageBase.<>c__DisplayClass3.<RenderPageCore>b__2(TextWriter writer)
+   在 System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   在 System.Web.WebPages.WebPageExecutingBase.WriteTo(TextWriter writer, HelperResult content)
+   在 System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   在 System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   在 System.Web.WebPages.WebPageBase.PopContext()
+   在 System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   在 System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+System.Web.HttpCompileException (0x80004005): C:\Users\Jacky\Source\Repos\NoTrace\NoTrace\NoTrace.WebApi.Web\Views\Shared\_Layout.cshtml(7): error CS0103: The name 'Styles' does not exist in the current context
+   在 System.Web.Compilation.AssemblyBuilder.Compile()
+   在 System.Web.Compilation.BuildProvidersCompiler.PerformBuild()
+   在 System.Web.Compilation.BuildManager.CompileWebFile(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(String virtualPath, Type requiredBaseType)
+   在 System.Web.WebPages.BuildManagerWrapper.CreateInstanceOfType[T](String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryManager.CreateInstanceOfType[T](String virtualPath)
+   在 System.Web.WebPages.VirtualPathFactoryExtensions.CreateInstance[T](IVirtualPathFactory factory, String virtualPath)
+   在 System.Web.WebPages.WebPageBase.CreatePageFromVirtualPath(String virtualPath, HttpContextBase httpContext, Func`2 virtualPathExists, DisplayModeProvider displayModeProvider, IDisplayMode displayMode)
+   在 System.Web.WebPages.WebPageBase.<>c__DisplayClass3.<RenderPageCore>b__2(TextWriter writer)
+   在 System.Web.WebPages.HelperResult.WriteTo(TextWriter writer)
+   在 System.Web.WebPages.WebPageExecutingBase.WriteTo(TextWriter writer, HelperResult content)
+   在 System.Web.WebPages.WebPageBase.Write(HelperResult result)
+   在 System.Web.WebPages.WebPageBase.RenderSurrounding(String partialViewName, Action`1 body)
+   在 System.Web.WebPages.WebPageBase.PopContext()
+   在 System.Web.WebPages.WebPageBase.ExecutePageHierarchy(WebPageContext pageContext, TextWriter writer, WebPageRenderingBase startPage)
+   在 System.Web.Mvc.RazorView.RenderView(ViewContext viewContext, TextWriter writer, Object instance)
+   在 System.Web.Mvc.BuildManagerCompiledView.Render(ViewContext viewContext, TextWriter writer)
+   在 System.Web.Mvc.ViewResultBase.ExecuteResult(ControllerContext context)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResult(ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultFilterRecursive(IList`1 filters, Int32 filterIndex, ResultExecutingContext preContext, ControllerContext controllerContext, ActionResult actionResult)
+   在 System.Web.Mvc.ControllerActionInvoker.InvokeActionResultWithFilters(ControllerContext controllerContext, IList`1 filters, ActionResult actionResult)
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<>c__DisplayClass2b.<BeginInvokeAction>b__1c()
+   在 System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass21.<BeginInvokeAction>b__1e(IAsyncResult asyncResult)
+DEBUG 2015-09-07 17:36:13,747 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:36:16,168 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:36:16,175 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,177 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,177 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,178 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,179 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,179 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,179 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,179 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,179 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:36:16,182 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:36:17,304 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:36:18,649 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-07 17:36:18,654 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:36:18,655 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:36:18,656 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-07 17:36:18,656 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb

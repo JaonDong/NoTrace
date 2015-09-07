@@ -1,22 +1,20 @@
 ﻿using Abp.Web.Mvc.Views;
+using NoTrace.Core;
 
 namespace NoTrace.WebApi.Web.Views
 {
-    public class NoTraceWebViewPageBase : NoTraceWebViewPage<dynamic>
+    public abstract class NoTraceWebViewPageBase : NoTraceWebViewPageBase<dynamic>
     {
 
     }
 
-    public class NoTraceWebViewPage<TModel>: AbpWebViewPage<TModel>
+    public abstract class NoTraceWebViewPageBase<TModel>: AbpWebViewPage<TModel>
     {
-        protected NoTraceWebViewPage()
+        protected NoTraceWebViewPageBase()
         {
-            LocalizationSourceName = "";
+            LocalizationSourceName = NoTraceConsts.LocalizationSourceName;
         }
 
-        public override void Execute()
-        {
-            throw new System.NotImplementedException();
-        }
+       
     }
 }

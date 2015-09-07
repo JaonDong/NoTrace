@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="zh-CN">
+  <texts>
+    <text name="Questions" value="问题" />
+    <text name="Users" value="用户" />
+    <text name="Test" value="测试"/>
+    <text name="roles" value="角色"/>
+  </texts>
+</localizationDictionary>

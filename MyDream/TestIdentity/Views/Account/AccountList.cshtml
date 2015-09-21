@@ -1,0 +1,69 @@
+﻿@model List<TestIdentity.Models.UserViewModel>
+@{
+    ViewBag.Title = "AccountList";
+}
+<style type="text/css">
+    .bs-example table th {
+        text-align: center;
+        background-color: #32cd32;
+    }
+</style>
+<h2>AccountList</h2>
+<div class="bs-example">
+    <table class="table table-hover table-bordered text-center table-striped">
+        <thead>
+        <tr>
+            <th colspan="5"> User Manager</th>
+        </tr>
+        <tr>
+            <th>UserName</th>
+            <th>Email</th>
+            <th>PasswordHash</th>
+            <th colspan="2">Controls</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>@user.Password</td>
+                <td>@Html.ActionLink("Update", "")</td>
+                <td><a href="#" onclick="deleteUser('@user.UserName')">Delete</a></td>
+            </tr>
+        }
+        </tbody>
+        <tfoot>
+        <tr> <td colspan="5">The table is magic!</td></tr>
+        </tfoot>
+    </table>
+</div>
+
+@section scripts
+{
+    <script type="text/javascript">
+
+        var deleteUser = function(username) {
+            $.ajax({
+                type: "Post",
+                url: "@Url.Action("DeleteUser", "Account")",
+                data: { 'userName': username },
+                dataType: "json",
+                success: function(data) {
+                    if (data.result) {
+                        alert("deleted completed!");
+                        location.reload();
+                    } else {
+                        alert("delete Failure");
+                    }
+                },
+                beforeSend: function() {
+                    if (!confirm("Are you sure delete it?")) {
+                        return;
+                    }
+                }
+            });
+        }
+    </script>
+}

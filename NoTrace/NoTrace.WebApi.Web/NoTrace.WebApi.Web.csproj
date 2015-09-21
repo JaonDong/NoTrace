@@ -179,6 +179,33 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Abp\Framework\scripts\abp.js" />
+    <Content Include="Abp\Framework\scripts\libs\abp.blockUI.js" />
+    <Content Include="Abp\Framework\scripts\libs\abp.jquery.js" />
+    <Content Include="Abp\Framework\scripts\libs\abp.spin.js" />
+    <Content Include="Abp\Framework\scripts\libs\abp.sweet-alert.js" />
+    <Content Include="Abp\Framework\scripts\libs\abp.toastr.js" />
+    <Content Include="Abp\Framework\scripts\libs\angularjs\abp.ng.js" />
+    <Content Include="Abp\Framework\scripts\libs\requirejs\plugins\service.js" />
+    <Content Include="Abp\Framework\scripts\utils\ie10fix.js" />
+    <Content Include="Abp\Framework\styles\abp.css" />
+    <Content Include="Abp\Framework\styles\abp.min.css" />
+    <Content Include="Abp\Framework\styles\utils\ie10fix.css" />
+    <Content Include="App\Main\app.js" />
+    <Content Include="App\Main\filters\moment_filters.js" />
+    <Content Include="App\Main\images\abp-logo.png" />
+    <Content Include="App\Main\main.css" />
+    <Content Include="App\Main\main.min.css" />
+    <Content Include="App\Main\views\layout\header.js" />
+    <Content Include="App\Main\views\layout\layout.js" />
+    <Content Include="App\Main\views\questions\createDialog.js" />
+    <Content Include="App\Main\views\questions\detail.css" />
+    <Content Include="App\Main\views\questions\detail.js" />
+    <Content Include="App\Main\views\questions\detail.min.css" />
+    <Content Include="App\Main\views\questions\index.css" />
+    <Content Include="App\Main\views\questions\index.js" />
+    <Content Include="App\Main\views\questions\index.min.css" />
+    <Content Include="App\Main\views\users\index.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -245,18 +272,31 @@
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
     <Content Include="log4net.config" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.10.2.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="App\Main\main.less" />
+    <Content Include="App\Main\views\layout\header.cshtml" />
+    <Content Include="App\Main\views\layout\layout.cshtml" />
+    <Content Include="App\Main\views\questions\createDialog.cshtml" />
+    <Content Include="App\Main\views\questions\detail.cshtml" />
+    <Content Include="App\Main\views\questions\detail.less" />
+    <Content Include="App\Main\views\questions\index.cshtml" />
+    <Content Include="App\Main\views\questions\index.less" />
+    <Content Include="App\Main\views\roles\index.cshtml" />
+    <Content Include="App\Main\views\users\index.cshtml" />
+    <Content Include="App\Main\web.config" />
+    <Content Include="Abp\Framework\styles\abp.css.map" />
+    <Content Include="Abp\Framework\styles\abp.less" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <None Include="Scripts\jquery-2.1.3.intellisense.js" />
+    <Content Include="Scripts\jquery-2.1.3.js" />
+    <Content Include="Scripts\jquery-2.1.3.min.js" />
     <Content Include="Scripts\jquery-ui-1.11.4.js" />
     <Content Include="Scripts\jquery-ui-1.11.4.min.js" />
     <Content Include="Scripts\jquery.blockUI.js" />
+    <Content Include="Scripts\jquery-2.1.3.min.map" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
@@ -293,8 +333,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Abp\" />
-    <Folder Include="App\" />
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
   </ItemGroup>

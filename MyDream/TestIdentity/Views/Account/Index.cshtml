@@ -1,0 +1,24 @@
+﻿@model TestIdentity.Models.UserViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.ValidationSummary()
+@using (Html.BeginForm("Index", "Account", FormMethod.Post))
+{
+    <div class="form-group">
+        <label for="UserName">UserName:</label>
+        @Html.TextBoxFor(u => u.UserName, new {@class = "form-control", placeholder = "User Name"})
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        @Html.TextBoxFor(u => u.Email, new {@class = "form-control", placeholder = "Email",type="email" })
+    </div>
+    <div class="form-group">
+        <label for="Password">Password:</label>
+        @Html.TextBoxFor(u => u.Password, new {@class = "form-control", placeholder = "Password", type = "password"})
+    </div>
+
+    <button type="submit" class="btn btn-default">Submit</button>
+}

@@ -2,6 +2,15 @@
 @{
     ViewBag.Title = "Index";
 }
+@section scripts{
+    
+}
 
-<h2>Index</h2>
-
+<div ng-controller="app.views.users as vm">
+    <input type="text" ng-model="userName"/>
+    <input type="text" ng-model="name"/>
+    <input type="text" ng-model="surnName"/>
+    <input type="text" ng-model="emailAddress" />
+    <input type="password" ng-model="password"/>
+    <button class="btn btn-default" ng-click="vm.createUser(userName,surnName,emailAddress,password)">确定创建</button>
+</div>

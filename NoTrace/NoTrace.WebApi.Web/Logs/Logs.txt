@@ -496,3 +496,98 @@ DEBUG 2015-09-07 17:36:18,654 [1    ] Abp.Localization.LocalizationManager     -
 DEBUG 2015-09-07 17:36:18,655 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
 DEBUG 2015-09-07 17:36:18,656 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
 DEBUG 2015-09-07 17:36:18,656 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-07 17:39:04,922 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-07 17:39:07,362 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-07 17:39:07,365 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,367 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,367 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,367 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,368 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-07 17:39:07,371 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-07 17:39:08,479 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 0 classes defines auto mapping attributes
+DEBUG 2015-09-07 17:39:09,706 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-07 17:39:09,710 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-07 17:39:09,710 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-07 17:39:09,711 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-07 17:39:09,711 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-08 11:49:52,938 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-08 11:49:54,737 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-08 11:49:54,739 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,742 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,742 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,743 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,744 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 11:49:54,746 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-08 11:49:55,729 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-09-08 11:49:55,729 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - NoTrace.Application.Users.Dto.UserDto
+DEBUG 2015-09-08 11:49:59,627 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-08 11:49:59,631 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-08 11:49:59,632 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-08 11:49:59,633 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-08 11:49:59,634 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-08 12:00:22,699 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-08 12:00:24,240 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-08 12:00:24,242 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,245 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,246 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,247 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 12:00:24,249 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-08 12:00:25,329 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-09-08 12:00:25,329 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - NoTrace.Application.Users.Dto.UserDto
+DEBUG 2015-09-08 12:00:27,030 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-08 12:00:27,036 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-08 12:00:27,037 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-08 12:00:27,037 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-08 12:00:27,038 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2015-09-08 18:01:33,219 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2015-09-08 18:01:41,179 [1    ] Abp.Modules.AbpModuleManager             - Found 14 ABP modules in total.
+DEBUG 2015-09-08 18:01:41,185 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Startup.Application.AbpApplicationModule, Abp.Application, Version=0.3.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=0.6.9.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Application.NoTraceApplicationModule, NoTrace.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.Core.NoTraceCoreModule, NoTrace.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.EntityFramework.NoTraceDataModule, NoTrace.EntityFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Api.NoTraceWebApiModule, NoTrace.WebApi.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,192 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: NoTrace.WebApi.Web.NoTraceWebModule, NoTrace.WebApi.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2015-09-08 18:01:41,195 [1    ] Abp.Modules.AbpModuleManager             - 14 modules loaded.
+DEBUG 2015-09-08 18:01:42,467 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 1 classes defines auto mapping attributes
+DEBUG 2015-09-08 18:01:42,467 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - NoTrace.Application.Users.Dto.UserDto
+DEBUG 2015-09-08 18:01:44,203 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2015-09-08 18:01:44,226 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2015-09-08 18:01:44,227 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2015-09-08 18:01:44,230 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: NoTrace
+DEBUG 2015-09-08 18:01:44,231 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
